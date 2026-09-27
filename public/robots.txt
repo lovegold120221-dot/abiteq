@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://abitech.online/sitemap.xml
-Host: https://abitech.online
+Sitemap: https://www.abitech.site/sitemap.xml
+Host: https://www.abitech.site

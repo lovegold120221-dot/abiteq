@@ -2,7 +2,7 @@ import { COMPANY } from "./site-data";
 
 export const SITE_URL = (
   (typeof import.meta !== "undefined" && import.meta.env?.VITE_SITE_URL) ||
-  "https://abitech.online"
+  "https://www.abitech.site"
 ).replace(/\/$/, "");
 
 export const SITE_NAME = "ABI Tech";

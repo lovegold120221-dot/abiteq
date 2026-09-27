@@ -67,7 +67,7 @@ function NavLink({
 
 export function Header() {
   const pathname = useRouterState({ select: (s) => s.location.pathname });
-  const openConsult = useUi((s) => s.openConsult);
+  const openDialer = useUi((s) => s.openDialer);
   const [open, setOpen] = useState(false);
   const [expanded, setExpanded] = useState<string | null>(null);
   const [scrolled, setScrolled] = useState(false);
@@ -171,7 +171,7 @@ export function Header() {
           >
             <Globe className="size-[18px]" strokeWidth={1.8} />
           </button>
-          <Button size="sm" className="pr-3.5 max-sm:h-10 max-sm:px-3 max-sm:text-xs" onClick={openConsult}>
+          <Button size="sm" className="pr-3.5 max-sm:h-10 max-sm:px-3 max-sm:text-xs" onClick={openDialer}>
             Let's Talk
             <ArrowRight className="size-4" strokeWidth={2.2} />
           </Button>

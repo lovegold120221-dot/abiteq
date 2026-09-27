@@ -1,7 +1,7 @@
 export const COMPANY = {
   name: "ABI Tech",
-  email: "admin@abitech.online",
-  emailHref: "mailto:admin@abitech.online",
+  email: "admin@abitech.site",
+  emailHref: "mailto:admin@abitech.site",
   whatsapp: "+63 945 4456 764",
   whatsappHref: "https://wa.me/639454456764",
   officeName: "Ortigas Office",

@@ -2,7 +2,7 @@
   "VITE_AUTH_ENABLED": "false",
   "VITE_SUPABASE_URL": "https://yvjqhkoawpawpkddojrh.supabase.co",
   "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl2anFoa29hd3Bhd3BrZGRvanJoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODkyMzcxMDksImV4cCI6MjEwNDgxMzEwOX0.XSRYndNlCnIiGdruddXtNR_iUMNn6eo9Onmr91Nxavk",
-  "VITE_SITE_URL": "https://abitech.online",
+  "VITE_SITE_URL": "https://www.abitech.site",
   "deploy": {
     "database": false
   }

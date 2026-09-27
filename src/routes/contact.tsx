@@ -12,7 +12,7 @@ export const Route = createFileRoute("/contact")({
     seoHead({
       title: "Contact ABI Tech — Ortigas Office, Email, WhatsApp",
       description:
-        "Contact ABI Tech: admin@abitech.online, WhatsApp +63 945 4456 764. Ortigas Office at One Corporate Center, Pasig City. Meetings by appointment.",
+        "Contact ABI Tech: admin@abitech.site, WhatsApp +63 945 4456 764. Ortigas Office at One Corporate Center, Pasig City. Meetings by appointment.",
       path: "/contact",
     }),
 });
